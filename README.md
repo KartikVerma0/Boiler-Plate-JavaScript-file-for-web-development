@@ -1,7 +1,7 @@
 # Boiler Plate JavaScript file for web development
 By executing this javascipt file using node will made folders and files automatically.
 
-<strong>Note:</strong> Please use Prettier Code formatter to format Code in HTML file.
+<strong>Note:</strong> Please use <a href="https://prettier.io/">Prettier Code formatter</a> to format Code in HTML file.
 
 ## Steps to use this JavaScript file.
 

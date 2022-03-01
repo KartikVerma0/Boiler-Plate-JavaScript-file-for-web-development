@@ -1,4 +1,4 @@
-# Boiler-Plate-JavaScript-file-for-web-development
+# Boiler Plate JavaScript file for web development
 By executing this javascipt file using node will made folders and files automatically.
 
 <strong>Note:</strong> Please use Prettier Code formatter to format Code in HTML file.
